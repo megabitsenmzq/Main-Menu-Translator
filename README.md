@@ -26,7 +26,7 @@ Translate strings are from:
 ## ScreenShot
 
 ![ScreenShot](screenshot.png)
-## Used Open Source Project
+## Using Open Source Project
 
 [AEXML](https://github.com/tadija/AEXML) (MIT)
 
