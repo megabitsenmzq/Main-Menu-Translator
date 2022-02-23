@@ -5,6 +5,8 @@
 
 This app can translate the MainMenu.xib automatically. 
 
+[![App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg)](https://apps.apple.com/us/app/main-menu-translator/id1611130303)
+
 ## Description
 
 There was an official tool called AppleGlot to do this, but it stops working after Catalina. Then Apple just deleted AppleGlot without any replacement. Also, other open-source tools all have some problems. Such as the old dictionary, not supporting "zh-Hans/Hant" language code, etc… So I made this app.
