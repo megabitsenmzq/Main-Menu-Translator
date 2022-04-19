@@ -163,6 +163,7 @@ class TranslateExtractor: NSObject {
         
         let newDicts = localDict.mapValues({ entries -> [DictionaryEntry] in
             let newEntrys = entries.compactMap({ entry -> DictionaryEntry? in
+                if entry.source.components(separatedBy: "%@").count > 2 { return nil }
                 // Some items might include the app name.
                 let matchedKeys = keys.filter({$0.source == String(format: entry.source, appName)})
                 var newEntry = entry
