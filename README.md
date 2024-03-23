@@ -9,7 +9,7 @@ This app can translate the MainMenu.xib automatically.
 
 ## Description
 
-There was an official tool called AppleGlot to do this, but it stops working after Catalina. Then Apple just deleted AppleGlot without any replacement. Also, other open-source tools all have some problems. Such as the old dictionary, not supporting "zh-Hans/Hant" language code, etc… So I made this app.
+There was an official tool called AppleGlot to do this, but it stops working after Catalina. Then Apple just deleted AppleGlot without any replacement. Also, other open-source tools all have some problems. Such as a old dictionary, not supporting "zh-Hans/Hant" language code, etc… So I made this app.
 
 It will load its dictionary from several system libraries and apps, keep the strings up to date. It also supports inserting app names into strings.
 
